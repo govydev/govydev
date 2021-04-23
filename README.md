@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <br />
 
-- :bookmark_tabs: my [Portfolio]()
+- :bookmark_tabs: my [Portfolio](https://github.com/govydev)
 
-- 📝 [Resume](https://govydev.github.io/govydev/)
+- 📝 [Resume](https://github.com/govydev)
 
 - :mailbox: How can you contact me [![Gmail Badge](https://img.shields.io/badge/-favio789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favio789@gmail.com)](mailto:favio789@gmail.com)
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </thead>
 <tbody>
 <tr><th scope='row'>Full Name</th><td>Flavio Cesar Salirrosas Llamocuro</td></tr>
-<tr><th scope='row'>Date of Birth</th><td><time datetime="1995-08-03 05:30"August 03, 1995</time></td></tr>
+<tr><th scope='row'>Date of Birth</th><td><time datetime="1995-08-03 05:30" August 03, 1995</time></td></tr>
 <tr><th scope='row'>Country of Birth</th><td>Peru, Lima</td></tr>
 <tr><th scope='row'>College Degree</th><td>
 Systems engineer student</td></tr>
@@ -113,9 +113,9 @@ Systems engineer student</td></tr>
 ### Follow Me:
 
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govydev/)](https://www.linkedin.com/in/govydev/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govydev/)](https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/govydev)](https://github.com/govydev)
-[![Facebook](https://img.shields.io/badge/-Facebook-077bab?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cesarcarrascowebdev)](https://www.facebook.com/cesarcarrascowebdev)
+[![Facebook](https://img.shields.io/badge/-Facebook-077bab?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/flavio.salirrosasllamocuro)](https://www.facebook.com/flavio.salirrosasllamocuro)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/govydev/)](https://twitter.com/govydev)
 <!--[![Instagram](https://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=http://www.instagram.com/swadevelop)](http://www.instagram.com/swadevelop)-->
 
