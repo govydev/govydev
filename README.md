@@ -1,7 +1,10 @@
 # Hi, I Am Flavio Salirrosas :smiley:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=govydev.govydev)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)](https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/govydev)](https://github.com/govydev)
+[![Facebook](https://img.shields.io/badge/-Facebook-077bab?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/flavio.salirrosasllamocuro)](https://www.facebook.com/flavio.salirrosasllamocuro)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/govydev/)](https://twitter.com/govydev)
 
 <br />
 <p align="center">I am a systems engineering student. I was born in Lima - Peru where I currently live
@@ -33,19 +36,15 @@
 ![Linux](https://img.shields.io/badge/-linux-white?style=or-the-badge-square&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/-apache-af0744?style=or-the-badge-square&logo=apache&logoColor=violet)
 
-
 <hr />
 
 ## Stats
-<br />
 
-<p align="center"> 
 [![Top GitHub Stats](https://github-readme-stats.vercel.app/api?username=govydev&show_icons=true&theme=gotham)](https://github.com/govydev/govydev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govydev&layout=compact&theme=gotham)](https://github.com/govydev/govydev)
 <hr />
 
 ## Learning
-
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -54,17 +53,13 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-<hr />
-
+<!-- <hr />
 
 ## Follow Me:
-
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)](https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/govydev)](https://github.com/govydev)
 [![Facebook](https://img.shields.io/badge/-Facebook-077bab?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/flavio.salirrosasllamocuro)](https://www.facebook.com/flavio.salirrosasllamocuro)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/govydev/)](https://twitter.com/govydev)
-<!--[![Instagram](https://img.shields.io/badge/-instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=http://www.instagram.com/swadevelop)](http://www.instagram.com/swadevelop)-->
-
-
+ -->
 
