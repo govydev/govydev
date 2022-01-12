@@ -3,7 +3,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=govydev.govydev)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)](https://www.linkedin.com/in/flavio-salirrosas-llamocuro-1bbb52144/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/govydev)](https://github.com/govydev)
-[![Facebook](https://img.shields.io/badge/-Facebook-077bab?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/flavio.salirrosasllamocuro)](https://www.facebook.com/flavio.salirrosasllamocuro)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/govydev/)](https://twitter.com/govydev)
 
 <br />
