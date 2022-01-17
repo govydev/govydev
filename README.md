@@ -16,7 +16,7 @@
 <hr />
 
 
-<p align="center">**Programming Languages, Frameworks and Tools:**</p>
+<p align="center">Programming Languages, Frameworks and Tools:</p>
 
 ![Php](https://img.shields.io/badge/-Php-563D7C?style=or-the-badge-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
