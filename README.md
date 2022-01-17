@@ -6,23 +6,17 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/govydev/)](https://twitter.com/govydev)
 
 <br />
-<p align="center">I am a systems engineering student. I was born in Lima - Peru where I currently live
+<p align="center">I am a systems engineering student. I was born in Lima - Peru where I currently live</p>
 <p align="center"> :heart_eyes: my passion: :computer: Programming, & :video_game: Video Games </p>
 
 <br />
 
-- :bookmark_tabs: my [Portfolio](https://github.com/govydev)
 
-- 📝 [Resume](https://github.com/govydev)
-
-- :mailbox: How can you contact me [![Gmail Badge](https://img.shields.io/badge/-favio789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:favio789@gmail.com)](mailto:favio789@gmail.com)
-
-- :pencil: Language: __Spanish__ & __English__
 
 <hr />
 
 
-**Programming Languages, Frameworks and Tools:**  
+<p align="center">**Programming Languages, Frameworks and Tools:**</p>
 
 ![Php](https://img.shields.io/badge/-Php-563D7C?style=or-the-badge-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -50,7 +44,6 @@
 ![FireBase](https://img.shields.io/badge/-FireBase-black?style=flat-square&logo=firebase)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <!-- <hr />
 
