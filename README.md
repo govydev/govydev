@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/govydev/)](https://twitter.com/govydev)
 
 <br />
-<p align="center">I am a systems engineering student. I was born in Lima - Peru where I currently live</p>
+<p align="center">I am a systems engineering graduate. I was born in Lima - Peru where I currently live</p>
 <p align="center"> :heart_eyes: my passion: :computer: Programming, & :video_game: Video Games </p>
 
 <br />
